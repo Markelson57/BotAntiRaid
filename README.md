@@ -15,5 +15,3 @@ Recuerda que el bot Anti-Raid necesita tener los permisos adecuados en el servid
 Para obtener más información y contenido relacionado, te invitamos a visitar el canal de YouTube [Markelson57](https://www.youtube.com/Markelson57), donde podrás encontrar tutoriales y recursos adicionales sobre Discord y bots.
 
 ¡Protege tu servidor Discord con el Bot Anti-Raid y disfruta de una experiencia segura y libre de inconvenientes!
-
-<button>Click</button>
