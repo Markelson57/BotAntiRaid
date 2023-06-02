@@ -68,4 +68,4 @@ async def deactivate(ctx):
         await ctx.send("El bot se ha desactivado.")
         print("Bot desactivado")
 
-bot.run('MTExMzU0Nzg3Mzk4NDk4NzE5Nw.GQ_UaA.TsTkCUCdcvohDh_kD_FiWka35pDTGvBlO7ED3g')
+bot.run('TOKEN_DEL_BOT')
