@@ -37,3 +37,7 @@ Recuerda que el bot Anti-Raid necesita tener los permisos adecuados en el servid
 9. **Proteger tu servidor**: El Bot Anti-Raid estará activo en tu servidor Discord, detectando y tomando medidas contra acciones no deseadas como creación masiva de canales, spam de mensajes y menciones repetidas.
 
 Para obtener más información y contenido relacionado, te invitamos a visitar el canal de YouTube Markelson57.
+
+## COMANDOS
+
+1. **!scan**: Este es el unico comando de momento ya que eo se utiliza si el bot no pudo bloquer el raid. Lo que hace es escanear los canales repetidos y los elimina si es que puede, luego escanea los canales eliminados, para poder recuperarlo. Ademas, el bot con este comando puede recuperar los canales eliminados por el raid. **NOTA**: Si noo has usado el comando despues de 30 min, el server no se podrá recuperarlo.
