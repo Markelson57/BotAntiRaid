@@ -23,7 +23,7 @@ async def on_message(message):
             return
 
         if message.content.startswith('@everyone'):
-            async for previous_message in message.channel.history(limit=10):
+            async for previous_message in message.channel.history(limit=2):
                 if previous_message.author == bot.user and previous_message.content == message.content:
                     await message.delete()
                     break
